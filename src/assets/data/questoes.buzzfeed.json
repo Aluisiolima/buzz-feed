@@ -46,6 +46,15 @@
           {"id": 1, "name":"O Terrivel", "alias":"A"},
           {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
         ]
+      },
+      {
+        "id":6,
+        "question": "quem vc mais ama",
+        "options":[
+          {"id": 1, "name":"meu pai", "alias":"A"},
+          {"id": 2, "name":"minha mae", "alias":"A"},
+          {"id": 3, "name":"meu cachorro", "alias":"B"}
+        ]
       }
     ],
     "results":{
